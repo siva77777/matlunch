@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "matlunch",
+    "slug": "matlunch",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "matlunch"
+}
